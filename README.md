@@ -23,6 +23,10 @@ Packer is used to install LSP, Telescope, Treesitter, UndoTree, Harpoon (Yes Pri
 
 # LSP
 
+```bash
+npm i
+```
+
 # Telescope
 
 # TreeSitter
