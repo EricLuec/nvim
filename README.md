@@ -3,6 +3,7 @@
 # Introduction
 
 Now that we all know that I became a superior human beeing, lets break my config down ant list the shortcuts increase workflow to a blazing 400%.
+(Not entirely tho but im currently working towards it...)
 
 # TableofContents
 
