@@ -17,7 +17,7 @@ Now that we all know that I became a superior human beeing, lets break my config
 8. [Harpoon](#Harpoon)
 9. [Contact](#Contact)
 
-
+:3
 # Plugins/Layout
 
 Packer is used to install LSP, Telescope, Treesitter, UndoTree, Harpoon (Yes Primeagen-Fanboy, sho0t me)
